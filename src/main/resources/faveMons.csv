@@ -1,0 +1,578 @@
+Submitter,Fave Type,Mon,Gen,Primary Type,Secondary Type
+JacobDoodle,Grass,Sawsbuck,5,Normal,Grass
+JacobDoodle,Fire,Houndoom,2,Dark,Fire
+JacobDoodle,Water,Psyduck,1,Water,None
+JacobDoodle,Normal,Taurus,1,Normal,None
+JacobDoodle,Electric,Lanturn,2,Electric,Water
+JacobDoodle,Psychic,Sigilyph,5,Psychic,Flying
+JacobDoodle,Fighting,Poliwrath,1,Water,Fighting
+JacobDoodle,Rock,Corsola,2,Water,Rock
+JacobDoodle,Ground,Flygon,3,Ground,Dragon
+JacobDoodle,Flying,Hawlucha,6,Fighting,Flying
+JacobDoodle,Bug,Frosmoth,8,Ice,Bug
+JacobDoodle,Poison,Dragalge,6,Poison,Dragon
+JacobDoodle,Dark,Umbreon,2,Dark,None
+JacobDoodle,Ghost,Mimikyu,7,Ghost,Fairy
+JacobDoodle,Ice,Aurorus,6,Rock,Ice
+JacobDoodle,Steel,Mawile,3,Steel,Fairy
+JacobDoodle,Dragon,Dracovish,8,Water,Dragon
+JacobDoodle,Fairy,Azumarill,2,Water,Fairy
+Hush,Grass,Tsareena,7,Grass,None
+Hush,Fire,Blaziken,3,Fire,Fighting
+Hush,Water,Greninja,6,Water,Dark
+Hush,Normal,Slaking,3,Normal,None
+Hush,Electric,Zapdos,1,Electric,Flying
+Hush,Psychic,Mewtwo,1,Psychic,None
+Hush,Fighting,Pangoro,6,Fighting,Dark
+Hush,Rock,Tyranitar,2,Rock,Dark
+Hush,Ground,Hippowdon,4,Ground,None
+Hush,Flying,Honchkrow,4,Dark,Flying
+Hush,Bug,Scyther,1,Bug,Flying
+Hush,Poison,Nidoking,1,Poison,Ground
+Hush,Dark,Scrafty,5,Dark,Fighting
+Hush,Ghost,Runerigus,8,Ground,Ghost
+Hush,Ice,Walrein,3,Ice,Water
+Hush,Steel,Orthworm,9,Steel,None
+Hush,Dragon,Garchomp,4,Dragon,Ground
+Hush,Fairy,Iron Valiant,9,Fairy,Fighting
+SLJP,Grass,Bellossom,2,Grass,None
+SLJP,Fire,Salazzle,7,Poison,Fire
+SLJP,Water,Quagsire,2,Water,Ground
+SLJP,Normal,Miltank,2,Normal,None
+SLJP,Electric,Ampharos,2,Electric,None
+SLJP,Psychic,Gardevoir,3,Psychic,Fairy
+SLJP,Fighting,Clobbopus,8,Fighting,None
+SLJP,Rock,Shuckle,2,Bug,Rock
+SLJP,Ground,Wooper,2,Water,Ground
+SLJP,Flying,Butterfree,1,Bug,Flying
+SLJP,Bug,Ribombee,7,Bug,Fairy
+SLJP,Poison,Clodsire,9,Poison,Ground
+SLJP,Dark,Umbreon,2,Dark,None
+SLJP,Ghost,Jellicent,5,Water,Ghost
+SLJP,Ice,Froslass,4,Ice,Ghost
+SLJP,Steel,Togedemaru,7,Electric,Steel
+SLJP,Dragon,Goodra,6,Dragon,None
+SLJP,Fairy,Jigglypuff,1,Fairy,None
+Julian,Grass,Sceptile,3,Grass,None
+Julian,Fire,Entei,2,Fire,None
+Julian,Water,Kyogue,3,Water,None
+Julian,Normal,Linoone,3,Normal,None
+Julian,Electric,Luxray,4,Electric,None
+Julian,Psychic,Mewtwo,1,Psychic,None
+Julian,Fighting,Blaziken,3,Fire,Fighting
+Julian,Rock,Aggron ,3,Steel,Rock
+Julian,Ground,Swampert,3,Water,Ground
+Julian,Flying,Lugia,2,Psychic,Flying
+Julian,Bug,Scizor,2,Bug,Steel
+Julian,Poison,Crobat,2,Poison,Flying
+Julian,Dark,Darkrai,4,Dark,None
+Julian,Ghost,Giratina,4,Ghost,Dragon
+Julian,Ice,Lapras,1,Water,Ice
+Julian,Steel,Metagross,3,Steel,Psychic
+Julian,Dragon,Latios,3,Psychic,Flying
+Julian,Fairy,Togekiss,4,Fairy,Flying
+Vargna,Grass,Appletun,8,Grass,Dragon
+Vargna,Fire,Blaziken,3,Fire,Fighting
+Vargna,Water,Golisopod,7,Bug,Water
+Vargna,Normal,Porygon-Z,4,Normal,None
+Vargna,Electric,Alolan Raichu,7,Electric,Psychic
+Vargna,Psychic,Alakazam,1,Psychic,None
+Vargna,Fighting,Pangoro,6,Fighting,Dark
+Vargna,Rock,Rhyperior,4,Ground,Rock
+Vargna,Ground,Flygon,3,Ground,Dragon
+Vargna,Flying,Talonflame,6,Fire,Flying
+Vargna,Bug,Scizor,2,Bug,Steel
+Vargna,Poison,Dragalge,6,Poison,Dragon
+Vargna,Dark,Overquill,8,Dark,Poison
+Vargna,Ghost,Shedinja,3,Bug,Ghost
+Vargna,Ice,Mamoswine,4,Ice,Ground
+Vargna,Steel,Aegislash,6,Steel,Ghost
+Vargna,Dragon,Dragapult,8,Dragon,Ghost
+Vargna,Fairy,Alolan Ninetales,7,Ice,Fairy
+Akita,Grass,Shaymin (Land Form),4,Grass,None
+Akita,Fire,Infernape,4,Fire,Fighting
+Akita,Water,Piplup,4,Water,None
+Akita,Normal,Porygon,1,Normal,None
+Akita,Electric,Shinx,4,Electric,None
+Akita,Psychic,Gallade,4,Psychic,Fighting
+Akita,Fighting,Mega Blaziken,6,Fire,Fighting
+Akita,Rock,Kabuto,1,Rock,Water
+Akita,Ground,Wooper,2,Water,Ground
+Akita,Flying,Drifblim,4,Ghost,Flying
+Akita,Bug,Joltik,5,Bug,Electric
+Akita,Poison,Dustox,3,Bug,Poison
+Akita,Dark,Ubreon,2,Dark,None
+Akita,Ghost,Drifloon,4,Ghost,Flying
+Akita,Ice,Snom,8,Ice,Bug
+Akita,Steel,Mega Mawile,6,Steel,Fairy
+Akita,Dragon,Giratina (Origin Form),4,Ghost,Dragon
+Akita,Fairy,Ralts,3,Psychic,Fairy
+Teapots & Dragons,Grass,Bulbasaur,1,Grass,None
+Teapots & Dragons,Fire,Growlithe,1,Fire,None
+Teapots & Dragons,Water,Magikarp,1,Water,None
+Teapots & Dragons,Normal,Pidgeot,1,Normal,Flying
+Teapots & Dragons,Electric,Alolan Raichu,7,Electric,Psychic
+Teapots & Dragons,Psychic,Mew,1,Psychic,None
+Teapots & Dragons,Fighting,Paldean Tauros (Blaze Breed),9,Fighting,Fire
+Teapots & Dragons,Rock,Rhydon,1,Ground,Rock
+Teapots & Dragons,Ground,Cubone,1,Ground,None
+Teapots & Dragons,Flying,Farfetch'd,1,Normal,Flying
+Teapots & Dragons,Bug,Scyther,1,Bug,Flying
+Teapots & Dragons,Poison,Gengar,1,Ghost,Poison
+Teapots & Dragons,Dark,Houndour,2,Dark,Fire
+Teapots & Dragons,Ghost,Polteageist,8,Ghost,None
+Teapots & Dragons,Ice,Spheal,3,Ice,Water
+Teapots & Dragons,Steel,Scizor,2,Bug,Steel
+Teapots & Dragons,Dragon,Dragonite,1,Dragon,Flying
+Teapots & Dragons,Fairy,Fidough,9,Fairy,None
+GingerMatt,Grass,Oddish,1,Grass,Poison
+GingerMatt,Fire,Fairy,1,Fire,None
+GingerMatt,Water,Tentacruel,1,Water,Poison
+GingerMatt,Normal,Zigzagoon,3,Normal,None
+GingerMatt,Electric,Ampharos,2,Electric,None
+GingerMatt,Psychic,Xatu,2,Psychic,Flying
+GingerMatt,Fighting,Heracross,2,Bug,Fighting
+GingerMatt,Rock,Tyranitar,2,Rock,Dark
+GingerMatt,Ground,Phanpy,2,Ground,None
+GingerMatt,Flying,Aerodactly,1,Rock,Flying
+GingerMatt,Bug,Scyther,1,Bug,Flying
+GingerMatt,Poison,Crobat,2,Poison,Flying
+GingerMatt,Dark,Umbreon,2,Dark,None
+GingerMatt,Ghost,Banette,3,Ghost,None
+GingerMatt,Ice,Sneasel,2,Dark,Ice
+GingerMatt,Steel,Scizor,2,Bug,Steel
+GingerMatt,Dragon,Dragonair,1,Dragon,None
+GingerMatt,Fairy,Togekiss,4,Fairy,Flying
+Heta,Grass,Meowscarada,9,Grass,Dark
+Heta,Fire,Chandelure,5,Ghost,Fire
+Heta,Water,Clawitzer,6,Water,None
+Heta,Normal,Purugly,4,Normal,None
+Heta,Electric,Jolteon,1,Electric,None
+Heta,Psychic,Meowstic (Male),6,Psychic,None
+Heta,Fighting,Mega Blaziken,6,Fire,Fighting
+Heta,Rock,Tyranitar,2,Rock,Dark
+Heta,Ground,Krookodile,5,Ground,Dark
+Heta,Flying,Togekiss,4,Fairy,Flying
+Heta,Bug,G-Max Centiskorch,8,Fire,Bug
+Heta,Poison,Whirlipede,5,Bug,Poison
+Heta,Dark,Mega Houndoom,6,Dark,Fire
+Heta,Ghost,Dhelmise,7,Ghost,Grass
+Heta,Ice,Chien-Pao,9,Dark,Ice
+Heta,Steel,G-Max Meowth,8,Normal,None
+Heta,Dragon,Mega Sceptile,6,Grass,Dragon
+Heta,Fairy,Whimsicott,5,Grass,Fairy
+Jumble,Grass,Jumpluff,2,Grass,Flying
+Jumble,Fire,Rapidash,1,Fire,None
+Jumble,Water,Psyduck,1,Water,None
+Jumble,Normal,Meowth,1,Normal,None
+Jumble,Electric,Electrode,1,Electric,None
+Jumble,Psychic,Slowpoke,1,Water,Psychic
+Jumble,Fighting,Machamp,1,Fighting,None
+Jumble,Rock,Onix,1,Rock,Ground
+Jumble,Ground,Geodude,1,Rock,Ground
+Jumble,Flying,Zapdos,1,Electric,Flying
+Jumble,Bug,Weedle,1,Bug,Poison
+Jumble,Poison,Tentacool,1,Water,Poison
+Jumble,Dark,Alolan Rattata,7,Dark,Normal
+Jumble,Ghost,Haunter,1,Ghost,Poison
+Jumble,Ice,Cloyster,1,Water,Ice
+Jumble,Steel,Magnemite,1,Electric,Steel
+Jumble,Dragon,Dratini,1,Dragon,None
+Jumble,Fairy,Mr Mime,1,Psychic,Fairy
+StitchedGhost,Grass,Skiddo,6,Grass,None
+StitchedGhost,Fire,Ninetales,1,Fire,None
+StitchedGhost,Water,Milotic,3,Water,None
+StitchedGhost,Normal,Farigiraf,9,Normal,Psychic
+StitchedGhost,Electric,Luxray,4,Electric,None
+StitchedGhost,Psychic,Espeon,2,Psychic,None
+StitchedGhost,Fighting,Mienshao,5,Fighting,None
+StitchedGhost,Rock,Archen,5,Rock,Flying
+StitchedGhost,Ground,Great Tusk,9,Ground,Fighting
+StitchedGhost,Flying,Hisuian Braviary,8,Psychic,Flying
+StitchedGhost,Bug,Slither Wing,9,Bug,Fighting
+StitchedGhost,Poison,Nidoking,1,Poison,Ground
+StitchedGhost,Dark,Zoroark,5,Dark,None
+StitchedGhost,Ghost,Hisuian Typhlosian,8,Fire,Ghost
+StitchedGhost,Ice,Chien-Pao,9,Dark,Ice
+StitchedGhost,Steel,Tinkaton,9,Fairy,Steel
+StitchedGhost,Dragon,Kommo-o,7,Dragon,Fighting
+StitchedGhost,Fairy,Xerneas (Active Mode),6,Fairy,None
+K0R8Z,Grass,Chikorita,2,Grass,None
+K0R8Z,Fire,Charizard,1,Fire,Flying
+K0R8Z,Water,Totodile,2,Water,None
+K0R8Z,Normal,Eevee,1,Normal,None
+K0R8Z,Electric,Raichu,1,Electric,None
+K0R8Z,Psychic,Slowking,2,Water,Psychic
+K0R8Z,Fighting,Heracross,2,Bug,Fighting
+K0R8Z,Rock,Tyranitar,2,Rock,Dark
+K0R8Z,Ground,Nidoking,1,Poison,Ground
+K0R8Z,Flying,Pidgeot,1,Normal,Flying
+K0R8Z,Bug,Beedrill,1,Bug,Poison
+K0R8Z,Poison,Nidoqueen,1,Poison,Ground
+K0R8Z,Dark,Umbreon,2,Dark,None
+K0R8Z,Ghost,Alolan Marowak,7,Fire,Ghost
+K0R8Z,Ice,Alolan Ninetales,7,Ice,Fairy
+K0R8Z,Steel,Steelix,2,Steel,Ground
+K0R8Z,Dragon,Dragonite,1,Dragon,Flying
+K0R8Z,Fairy,Togetic,2,Fairy,Flying
+Gusward,Grass,Turtwig,4,Grass,None
+Gusward,Fire,Vulpix,1,Fire,None
+Gusward,Water,Mudkip,3,Water,None
+Gusward,Normal,Eevee,1,Normal,None
+Gusward,Electric,Electrike,3,Electric,None
+Gusward,Psychic,Mr Mime,1,Psychic,Fairy
+Gusward,Fighting,Poliwrath,1,Water,Fighting
+Gusward,Rock,Shuckle,2,Bug,Rock
+Gusward,Ground,Nidoqueen,1,Poison,Ground
+Gusward,Flying,Articuno,1,Ice,Flying
+Gusward,Bug,Venonat,1,Bug,Poison
+Gusward,Poison,Tentacool,1,Water,Poison
+Gusward,Dark,Umbreon,2,Dark,None
+Gusward,Ghost,Haunter,1,Ghost,Poison
+Gusward,Ice,Cubchoo,5,Ice,None
+Gusward,Steel,Scizor,2,Bug,Steel
+Gusward,Dragon,Dragonair,1,Dragon,None
+Gusward,Fairy,Togepi,1,Fairy,None
+Perseus,Grass,Grovyle,3,Grass,None
+Perseus,Fire,Houndoom,2,Dark,Fire
+Perseus,Water,Vaporeon,1,Water,None
+Perseus,Normal,Dodtrio,1,Normal,Flying
+Perseus,Electric,Electrike ,3,Electric,None
+Perseus,Psychic,Mew,1,Psychic,None
+Perseus,Fighting,Lucario,4,Fighting,Steel
+Perseus,Rock,Aggron ,3,Steel,Rock
+Perseus,Ground,Nidoking,1,Poison,Ground
+Perseus,Flying,Aerodactyl,1,Rock,Flying
+Perseus,Bug,Scyther,1,Bug,Flying
+Perseus,Poison,Ekans,1,Poison,None
+Perseus,Dark,Tyranitar,2,Rock,Dark
+Perseus,Ghost,Gengar,1,Ghost,Poison
+Perseus,Ice,Beartic ,5,Ice,None
+Perseus,Steel,Steelix,2,Steel,Ground
+Perseus,Dragon,Dialga,4,Steel,Dragon
+Perseus,Fairy,Togetic,2,Fairy,Flying
+Ybarra (aeva),Grass,Tsareena,7,Grass,None
+Ybarra (aeva),Fire,Delphox,6,Fire,Psychic
+Ybarra (aeva),Water,Lapras,1,Water,Ice
+Ybarra (aeva),Normal,Loppuny,4,Normal,None
+Ybarra (aeva),Electric,Emolga,5,Electric,Flying
+Ybarra (aeva),Psychic,Espurr,6,Psychic,None
+Ybarra (aeva),Fighting,Hisuian Lilligant,8,Grass,Fighting
+Ybarra (aeva),Rock,Lycanroc (Midday),7,Rock,None
+Ybarra (aeva),Ground,Quagsire,2,Water,Ground
+Ybarra (aeva),Flying,Talonflame,6,Fire,Flying
+Ybarra (aeva),Bug,Pheromosa,7,Bug,Fighting
+Ybarra (aeva),Poison,Toxicroak,4,Poison,Fighting
+Ybarra (aeva),Dark,Zoroark,5,Dark,None
+Ybarra (aeva),Ghost,Calyrex Shadow Rider,8,Psychic,Ghost
+Ybarra (aeva),Ice,Aurorus,6,Rock,Ice
+Ybarra (aeva),Steel,Corviknight,8,Flying,Steel
+Ybarra (aeva),Dragon,Flygon,3,Ground,Dragon
+Ybarra (aeva),Fairy,Azumarill,2,Water,Fairy
+Godgamer,Grass,Zarude,8,Dark,Grass
+Godgamer,Fire,Ceruledge,9,Fire,Ghost
+Godgamer,Water,Greninja,6,Water,Dark
+Godgamer,Normal,Hisuian Zoroark,8,Normal,Ghost
+Godgamer,Electric,Alolan Raichu,7,Electric,Psychic
+Godgamer,Psychic,Gallade,4,Psychic,Fighting
+Godgamer,Fighting,Lucario,4,Fighting,Steel
+Godgamer,Rock,Kleavor,8,Bug,Rock
+Godgamer,Ground,Gliscor,4,Ground,Flying
+Godgamer,Flying,Yveltal,6,Dark,Flying
+Godgamer,Bug,Araquanid,7,Water,Bug
+Godgamer,Poison,Salazzle,7,Poison,Fire
+Godgamer,Dark,Galarian Moltres,8,Dark,Flying
+Godgamer,Ghost,Gholdengo,9,Steel,Ghost
+Godgamer,Ice,Alolan Ninetales,7,Ice,Fairy
+Godgamer,Steel,Lucario,4,Fighting,Steel
+Godgamer,Dragon,Naganadel,7,Poison,Dragon
+Godgamer,Fairy,Magerna,7,Steel,Fairy
+Super_Nerd,Grass,Meowscarada,9,Grass,Dark
+Super_Nerd,Fire,Mega Houndoom,6,Dark,Fire
+Super_Nerd,Water,Feraligatr,2,Water,None
+Super_Nerd,Normal,Bouffalant,5,Normal,None
+Super_Nerd,Electric,Helioptile,6,Electric,Normal
+Super_Nerd,Psychic,Mewtwo,1,Psychic,None
+Super_Nerd,Fighting,Quaquaval,9,Water,Fighting
+Super_Nerd,Rock,Tyranitar,2,Rock,Dark
+Super_Nerd,Ground,Rhyhorn,1,Ground,Rock
+Super_Nerd,Flying,Drifloon,4,Ghost,Flying
+Super_Nerd,Bug,Heracross,2,Bug,Fighting
+Super_Nerd,Poison,G-Max Garbodor,8,Poison,None
+Super_Nerd,Dark,Bisharp,5,Dark,Steel
+Super_Nerd,Ghost,Runerigus,8,Ground,Ghost
+Super_Nerd,Ice,Spheal,3,Ice,Water
+Super_Nerd,Steel,Beldum,3,Steel,Psychic
+Super_Nerd,Dragon,Kommo-o,7,Dragon,Fighting
+Super_Nerd,Fairy,Dedenne,6,Electric,Fairy
+Miss Hatster,Grass,Cherubi,4,Grass,None
+Miss Hatster,Fire,Charizard,1,Fire,Flying
+Miss Hatster,Water,Vaporeon,1,Water,None
+Miss Hatster,Normal,Persian,1,Normal,None
+Miss Hatster,Electric,Jolteon,1,Electric,None
+Miss Hatster,Psychic,Mew,1,Psychic,None
+Miss Hatster,Fighting,Mega Mewtwo X,6,Psychic,Fighting
+Miss Hatster,Rock,Onix,1,Rock,Ground
+Miss Hatster,Ground,Nidoqueen,1,Poison,Ground
+Miss Hatster,Flying,Galarian Articuno,8,Psychic,Flying
+Miss Hatster,Bug,Snom,8,Ice,Bug
+Miss Hatster,Poison,Haunter,1,Ghost,Poison
+Miss Hatster,Dark,Umbreon,2,Dark,None
+Miss Hatster,Ghost,G-Max Gengar,1,Ghost,Poison
+Miss Hatster,Ice,Alolan Vulpix,7,Ice,Fairy
+Miss Hatster,Steel,Alolan Sandslash,7,Ice,Steel
+Miss Hatster,Dragon,Mega Charizard X,6,Fire,Dragon
+Miss Hatster,Fairy,Alolan Ninetales,7,Ice,Fairy
+Pink Ninja,Grass,Bellsprout,1,Grass,Poison
+Pink Ninja,Fire,Vulpix,1,Fire,None
+Pink Ninja,Water,Psyduck,1,Water,None
+Pink Ninja,Normal,Jigglypuff,1,Normal,Fairy
+Pink Ninja,Electric,Jolteon,1,Electric,None
+Pink Ninja,Psychic,Wobbufett,1,Psychic,None
+Pink Ninja,Fighting,Poliwrath,1,Water,Fighting
+Pink Ninja,Rock,Probopass,4,Rock,Steel
+Pink Ninja,Ground,Wooper,2,Water,Ground
+Pink Ninja,Flying,Thundurus,5,Electric,Flying
+Pink Ninja,Bug,Metapod,1,Bug,None
+Pink Ninja,Poison,Beedrill,1,Bug,Poison
+Pink Ninja,Dark,Purrloin,5,Dark,None
+Pink Ninja,Ghost,Gengar,1,Ghost,Poison
+Pink Ninja,Ice,Cloyster,1,Water,Ice
+Pink Ninja,Steel,Alolan Dugtrio,7,Ground,Steel
+Pink Ninja,Dragon,Dratini,1,Dragon,None
+Pink Ninja,Fairy,Clefairy,1,Fairy,None
+Praesta,Grass,Ludicolo,3,Water,Grass
+Praesta,Fire,Turtonator,7,Fire,Dragon
+Praesta,Water,Shellos (West Sea),4,Water,None
+Praesta,Normal,Snorlax,1,Normal,None
+Praesta,Electric,Pawmot,9,Electric,Fighting
+Praesta,Psychic,Espeon,2,Psychic,None
+Praesta,Fighting,Bewear,7,Normal,Fighting
+Praesta,Rock,Regirock,3,Rock,None
+Praesta,Ground,Quagsire,2,Water,Ground
+Praesta,Flying,Altaria,3,Dragon,Flying
+Praesta,Bug,Araquanid,7,Water,Bug
+Praesta,Poison,Galarian Weezing,8,Poison,Fairy
+Praesta,Dark,Umbreon,2,Dark,None
+Praesta,Ghost,Hisuian Zoroark,8,Normal,Ghost
+Praesta,Ice,Iron Bundle,9,Ice,Water
+Praesta,Steel,Steelix,2,Steel,Ground
+Praesta,Dragon,Goodra,6,Dragon,None
+Praesta,Fairy,Hatterene,8,Psychic,Fairy
+llouw11,Grass,Leafeon,4,Grass,None
+llouw11,Fire,Charizard,1,Fire,Flying
+llouw11,Water,Pelipper,3,Water,Flying
+llouw11,Normal,Linoone,3,Normal,None
+llouw11,Electric,Magnezone,4,Electric,Steel
+llouw11,Psychic,Bronzong,4,Steel,Psychic
+llouw11,Fighting,Hitmonchan,1,Fighting,None
+llouw11,Rock,Rhyperior,4,Ground,Rock
+llouw11,Ground,Claydol,3,Ground,Psychic
+llouw11,Flying,Fearow,1,Normal,Flying
+llouw11,Bug,Ninjask,3,Bug,Flying
+llouw11,Poison,Revavroom,9,Steel,Poison
+llouw11,Dark,Mightyena,3,Dark,None
+llouw11,Ghost,Chandelure,5,Ghost,Fire
+llouw11,Ice,Cetitan,9,Ice,None
+llouw11,Steel,Metagross,3,Steel,Psychic
+llouw11,Dragon,Salamence,3,Dragon,Flying
+llouw11,Fairy,Dachsbun,9,Fairy,None
+21zeros,Grass,Mega Venusaur,6,Grass,Poison
+21zeros,Fire,Charizard,1,Fire,Flying
+21zeros,Water,Blastoise,1,Water,None
+21zeros,Normal,Ditto,1,Normal,None
+21zeros,Electric,Raichu,1,Electric,None
+21zeros,Psychic,Alakazam,1,Psychic,None
+21zeros,Fighting,Primape,1,Fighting,None
+21zeros,Rock,Tyranitar,2,Rock,Dark
+21zeros,Ground,Sandslash,1,Ground,None
+21zeros,Flying,Mega Pidgeot,6,Normal,Flying
+21zeros,Bug,Mega Scizor,6,Bug,Steel
+21zeros,Poison,Mega Gengar,6,Ghost,Poison
+21zeros,Dark,Galarian Moltres,8,Dark,Flying
+21zeros,Ghost,Alolan Marowak,7,Fire,Ghost
+21zeros,Ice,Lapras,1,Water,Ice
+21zeros,Steel,Mega Steelix,6,Steel,Ground
+21zeros,Dragon,Mega Charizard X,6,Fire,Dragon
+21zeros,Fairy,Togetic,2,Fairy,Flying
+BanjGames,Bug,Caterpie,1,Bug,None
+SinisterSandman,Grass,Victreebell,1,Grass,Poison
+SinisterSandman,Fire,Flareon,1,Fire,None
+SinisterSandman,Water,Chinchou,2,Water,Electric
+SinisterSandman,Normal,Blissey,2,Normal,None
+SinisterSandman,Electric,Electrode,1,Electric,None
+SinisterSandman,Psychic,Exeggcutor,1,Grass,Psychic
+SinisterSandman,Fighting,Primape,1,Fighting,None
+SinisterSandman,Rock,Magcargo,2,Fire,Rock
+SinisterSandman,Ground,Cubone,1,Ground,None
+SinisterSandman,Flying,Dodtrio,1,Normal,Flying
+SinisterSandman,Bug,Parasect,1,Bug,Grass
+SinisterSandman,Poison,Arbok,1,Poison,None
+SinisterSandman,Dark,Honchkrow,4,Dark,Flying
+SinisterSandman,Ghost,Gengar,1,Ghost,Poison
+SinisterSandman,Ice,Cloyster,1,Water,Ice
+SinisterSandman,Steel,Magneton,1,Electric,Steel
+SinisterSandman,Dragon,Flygon,3,Ground,Dragon
+SinisterSandman,Fairy,Mawile,3,Steel,Fairy
+MatuteRemaster,Grass,Parasect,1,Bug,Grass
+MatuteRemaster,Fire,Centiskorch,8,Fire,Bug
+MatuteRemaster,Water,Primarina,7,Water,Fairy
+MatuteRemaster,Normal,Bidoof,4,Normal,None
+MatuteRemaster,Electric,Togedemaru,7,Electric,Steel
+MatuteRemaster,Psychic,Solrock,3,Rock,Psychic
+MatuteRemaster,Fighting,Hitmonlee,1,Fighting,None
+MatuteRemaster,Rock,Klawf,9,Rock,None
+MatuteRemaster,Ground,Donphan,2,Ground,None
+MatuteRemaster,Flying,Crobat,2,Poison,Flying
+MatuteRemaster,Bug,Shedinja,3,Bug,Ghost
+MatuteRemaster,Poison,Venusaur,1,Grass,Poison
+MatuteRemaster,Dark,Umbreon,1,Dark,None
+MatuteRemaster,Ghost,Gengar,1,Ghost,Poison
+MatuteRemaster,Ice,Glalie,3,Ice,None
+MatuteRemaster,Steel,Bisharp,5,Dark,Steel
+MatuteRemaster,Dragon,Rayquaza,3,Dragon,Flying
+MatuteRemaster,Fairy,Grimmsnarl,8,Dark,Fairy
+Mamphacata,Grass,Tsareena,7,Grass,None
+Mamphacata,Fire,Mega Blaziken,6,Fire,Fighting
+Mamphacata,Water,Milotic,3,Water,None
+Mamphacata,Normal,Staraptor,4,Normal,Flying
+Mamphacata,Electric,Toxtricity (Amped Form),8,Electric,Poison
+Mamphacata,Psychic,Jirachi,3,Steel,Psychic
+Mamphacata,Fighting,G-Max Machamp,8,Fighting,None
+Mamphacata,Rock,Mega Diancie,6,Rock,Fairy
+Mamphacata,Ground,Gliscor,4,Ground,Flying
+Mamphacata,Flying,Yveltal,6,Dark,Flying
+Mamphacata,Bug,Beautifly,3,Bug,Flying
+Mamphacata,Poison,Toxtricity (Amped Form),8,Electric,Poison
+Mamphacata,Dark,Urshifu (Single Strike),8,Fighting,Dark
+Mamphacata,Ghost,Giratina (Origin Form),4,Ghost,Dragon
+Mamphacata,Ice,Alolan Ninetales,7,Ice,Fairy
+Mamphacata,Steel,Empoleon,4,Water,Steel
+Mamphacata,Dragon,Reshiram,5,Dragon,Fire
+Mamphacata,Fairy,Mega Altaria,6,Dragon,Fairy
+Axiscast,Grass,Roserade,4,Grass,Poison
+Axiscast,Fire,Moltres,1,Fire,Flying
+Axiscast,Water,Suicune,2,Water,None
+Axiscast,Normal,Cinccino,5,Normal,None
+Axiscast,Electric,Eelektross,5,Electric,None
+Axiscast,Psychic,Beheeyem,5,Psychic,None
+Axiscast,Fighting,Breloom,3,Grass,Fighting
+Axiscast,Rock,Shuckle,2,Bug,Rock
+Axiscast,Ground,Marowak,1,Ground,None
+Axiscast,Flying,Yanmega,4,Bug,Flying
+Axiscast,Bug,Masquerain,3,Bug,Flying
+Axiscast,Poison,Ariados,2,Bug,Poison
+Axiscast,Dark,Zoroark,5,Dark,None
+Axiscast,Ghost,Mega Banette,6,Ghost,None
+Axiscast,Ice,Weavile,4,Dark,Ice
+Axiscast,Steel,Jirachi,3,Steel,Psychic
+Axiscast,Dragon,Kingdra,2,Water,Dragon
+Axiscast,Fairy,Sylveon,6,Fairy,None
+kittymcfuck,Grass,Torterra,4,Grass,Ground
+kittymcfuck,Fire,Arcanine,1,Fire,None
+kittymcfuck,Water,Kingdra,2,Water,Dragon
+kittymcfuck,Normal,Snorlax,1,Normal,None
+kittymcfuck,Electric,Lanturn,2,Electric,Water
+kittymcfuck,Psychic,Slowbro,1,Water,Psychic
+kittymcfuck,Fighting,Conkeldurr,5,Fighting,None
+kittymcfuck,Rock,Aggron ,3,Steel,Rock
+kittymcfuck,Ground,Steelix,2,Steel,Ground
+kittymcfuck,Flying,Tropius,3,Grass,Flying
+kittymcfuck,Bug,Buzzwole,7,Bug,Fighting
+kittymcfuck,Poison,Toxicroak,4,Poison,Fighting
+kittymcfuck,Dark,Tyranitar,2,Rock,Dark
+kittymcfuck,Ghost,G-Max Gengar,1,Ghost,Poison
+kittymcfuck,Ice,Walrein,3,Ice,Water
+kittymcfuck,Steel,Metagross,3,Steel,Psychic
+kittymcfuck,Dragon,Salamence,3,Dragon,Flying
+kittymcfuck,Fairy,Galarian Weezing,8,Poison,Fairy
+courtamew,Grass,Breloom,3,Grass,Fighting
+courtamew,Fire,Blaziken,3,Fire,Fighting
+courtamew,Water,Dondozo,9,Water,None
+courtamew,Normal,Chansey,1,Normal,None
+courtamew,Electric,Toxtricity (Amped Form),8,Electric,Poison
+courtamew,Psychic,Alakazam,1,Psychic,None
+courtamew,Fighting,Flamigo,9,Flying,Fighting
+courtamew,Rock,Shuckle,2,Bug,Rock
+courtamew,Ground,Mudbray,7,Ground,None
+courtamew,Flying,Talonflame,6,Fire,Flying
+courtamew,Bug,Combee,4,Bug,Flying
+courtamew,Poison,Muk,1,Poison,None
+courtamew,Dark,Absol,3,Dark,None
+courtamew,Ghost,Gengar,1,Ghost,Poison
+courtamew,Ice,Snom,8,Ice,Bug
+courtamew,Steel,Bisharp,5,Dark,Steel
+courtamew,Dragon,Appletun,8,Grass,Dragon
+courtamew,Fairy,Tinkaton,9,Fairy,Steel
+Toastedsoup,Grass,Decidueye,7,Grass,Ghost
+Toastedsoup,Fire,Volcarona,5,Bug,Fire
+Toastedsoup,Water,Kabuto,1,Rock,Water
+Toastedsoup,Normal,Indeedee (Female),8,Psychic,Normal
+Toastedsoup,Electric,Tynamo,5,Electric,None
+Toastedsoup,Psychic,Solosis,5,Psychic,None
+Toastedsoup,Fighting,Marshadow,7,Fighting,Ghost
+Toastedsoup,Rock,Kleavor,8,Bug,Rock
+Toastedsoup,Ground,Flygon,3,Ground,Dragon
+Toastedsoup,Flying,Crobat,2,Poison,Flying
+Toastedsoup,Bug,Heracross,2,Bug,Fighting
+Toastedsoup,Poison,Scolipede,5,Bug,Poison
+Toastedsoup,Dark,Umbreon,2,Dark,None
+Toastedsoup,Ghost,Chandelure,5,Ghost,Fire
+Toastedsoup,Ice,Chien-Pao,9,Dark,Ice
+Toastedsoup,Steel,Corviknight,8,Flying,Steel
+Toastedsoup,Dragon,Haxorus,5,Dragon,None
+Toastedsoup,Fairy,Mimikyu,7,Ghost,Fairy
+goose,Grass,Roserade,4,Grass,Poison
+goose,Fire,Volcarona,5,Bug,Fire
+goose,Water,Swampert,3,Water,Ground
+goose,Normal,Slaking,3,Normal,None
+goose,Electric,Zeraora,7,Electric,None
+goose,Psychic,Claydol,3,Ground,Psychic
+goose,Fighting,Breloom,3,Grass,Fighting
+goose,Rock,Crustle,5,Bug,Rock
+goose,Ground,Excadrill,5,Ground,Steel
+goose,Flying,Hawlucha,6,Fighting,Flying
+goose,Bug,Heracross,2,Bug,Fighting
+goose,Poison,Gengar,1,Ghost,Poison
+goose,Dark,Kingambit,9,Dark,Steel
+goose,Ghost,Dusknoir,4,Ghost,None
+goose,Ice,Weavile,4,Dark,Ice
+goose,Steel,Aegislash,6,Steel,Ghost
+goose,Dragon,Dragapult,8,Dragon,Ghost
+goose,Fairy,Tinkaton,9,Fairy,Steel
+emilyraemeow,Grass,Sprigatito,9,Grass,None
+emilyraemeow,Fire,Hisuian Arcanine,8,Fire,Rock
+emilyraemeow,Water,Wailord,3,Water,None
+emilyraemeow,Normal,Wooloo,8,Normal,None
+emilyraemeow,Electric,Boltund,8,Electric,None
+emilyraemeow,Psychic,Jirachi,3,Steel,Psychic
+emilyraemeow,Fighting,Stufful,7,Normal,Fighting
+emilyraemeow,Rock,Hisuian Growlithe,8,Fire,Rock
+emilyraemeow,Ground,Phanpy,2,Ground,None
+emilyraemeow,Flying,Starly,4,Normal,Flying
+emilyraemeow,Bug,Frosmoth,8,Ice,Bug
+emilyraemeow,Poison,Paldean Wooper,9,Poison,Ground
+emilyraemeow,Dark,Mightyena,3,Dark,None
+emilyraemeow,Ghost,Pumpkaboo,6,Ghost,Grass
+emilyraemeow,Ice,Alolan Ninetales,7,Ice,Fairy
+emilyraemeow,Steel,Jirachi,3,Steel,Psychic
+emilyraemeow,Dragon,Dragonair,1,Dragon,None
+emilyraemeow,Fairy,Mega Audino,6,Normal,Fairy
+London,Grass,Mega Sceptile,6,Grass,Dragon
+London,Fire,Mega Blaziken,6,Fire,Fighting
+London,Water,Ash-Greninja,7,Water,Dark
+London,Normal,Bidoof,4,Normal,None
+London,Electric,Zeraora,7,Electric,None
+London,Psychic,Mega Gallade,6,Psychic,Fighting
+London,Fighting,Mega Lucario,6,Fighting,Steel
+London,Rock,Hisuian Arcanine,8,Fire,Rock
+London,Ground,Garchomp,4,Dragon,Ground
+London,Flying,Noivern,6,Flying,Dragon
+London,Bug,Mega Scizor,6,Bug,Steel
+London,Poison,Toxicroak,4,Poison,Fighting
+London,Dark,Mega Absol,6,Dark,None
+London,Ghost,Zenith Marshadow,7,Fighting,Ghost
+London,Ice,Alolan Ninetales,7,Ice,Fairy
+London,Steel,Aegislash,6,Steel,Ghost
+London,Dragon,Mega Altaria,6,Dragon,Fairy
+London,Fairy,Mega Gardevoir,6,Psychic,Fairy
