@@ -4,7 +4,7 @@ import DataReader
 import DataService
 import ValidationService
 
-fun main(args: Array<String>) {
+fun run() {
 
     val dataReader = DataReader()
     val dataService = DataService()
